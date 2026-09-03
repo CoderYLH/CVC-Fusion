@@ -1,0 +1,6 @@
+numpy>=1.23
+openpyxl>=3.0
+pandas>=1.5
+Pillow>=9.0
+PyYAML>=6.0
+torch>=1.12

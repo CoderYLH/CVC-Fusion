@@ -1,0 +1,16 @@
+Portions of the image encoder and supporting operations are adapted from
+Apple's CVNets project:
+
+https://github.com/apple/ml-cvnets
+
+Related MobileViT references include:
+
+Sachin Mehta and Mohammad Rastegari. MobileViT: Light-weight,
+General-purpose, and Mobile-friendly Vision Transformer. 2021.
+
+Sachin Mehta and Mohammad Rastegari. Separable Self-attention for Mobile
+Vision Transformers. 2022.
+
+Shakti N. Wadekar and Abhishek Chaurasia. MobileViTv3: Mobile-friendly Vision
+Transformer with Simple and Effective Fusion of Local, Global and Input
+Features. 2022.
